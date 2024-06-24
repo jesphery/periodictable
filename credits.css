@@ -45,6 +45,16 @@ body {
   animation-delay: 1s;
 }
 
+.texto footer a {
+  text-decoration: none;
+  color: #ededed;
+  transition: 0.5s;
+}
+
+.texto footer a:hover {
+  color: #0ef;
+}
+
 /* animações */  
 
 @keyframes slideBottom {
